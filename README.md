@@ -10,4 +10,4 @@ My main programming languages are **C++** and **Python**, also I have experience
 
 **Linux** user, on my personal machines use **openSUSE Tumbleweed** distro
 
-![alt text](https://www.codewars.com/users/ThinkingFrog/badges/small)
+![alt text](https://www.codewars.com/users/ThinkingFrog/badges/large)
