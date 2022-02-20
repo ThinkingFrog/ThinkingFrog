@@ -18,6 +18,8 @@ My main programming languages are **C++** and **Python**, also I have experience
 
 ![alt text](https://www.codewars.com/users/ThinkingFrog/badges/large)
 
+*LeetCode*: https://leetcode.com/ThinkingFrog/
+
 *Exercism*: https://exercism.org/profiles/ThinkingFrog
 
 *Stepik*: https://stepik.org/users/127886308
