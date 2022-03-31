@@ -4,7 +4,7 @@ My name is Dmitry Khripunkov, on most social medias I use nickname/tag **Thinkin
 
 I'm currently studying at Saint-Petersburg Polytechnic University as a 4th grade **Computer Science** bachelor's student
 
-Also I have a job at STC Group (speechpro.ru) as a **Software Enigneer**
+Also I have a job at [STC Group](speechpro.ru) as a **Software Enigneer**
 
 Main programming languages are **Rust**, **Python** and **C++**
 
