@@ -6,9 +6,9 @@ I'm currently studying at Saint-Petersburg Polytechnic University as a 4th grade
 
 Also I have a job at STC Group (speechpro.ru) as a **Software Enigneer**
 
-My main programming languages are **C++** and **Python**, also I have experience with different **CI/CD** systems and **docker** containers, currently learning **Rust** at spare time
+Main programming languages are **Rust**, **Python** and **C++**
 
-**Linux** user, on my personal machines use **openSUSE Tumbleweed** distro
+Also have experience with Linux, **CI/CD** systems and containers
 
 **My links**:
 
