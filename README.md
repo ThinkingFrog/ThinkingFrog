@@ -8,18 +8,16 @@ Also I have a job at [STC Group](speechpro.ru) as a **Software Enigneer**
 
 Main programming languages are **Rust**, **Python** and **C++**
 
-Also have experience with Linux, **CI/CD** systems and containers
+Additionally have experience with Linux, **CI/CD** systems and containers
 
 **My links**:
 
-*Linkedin*: https://www.linkedin.com/in/dmitry-khripunkov-818545202/
+- [*Linkedin*](https://www.linkedin.com/in/dmitry-khripunkov-818545202/)
 
-*Codewars*: https://www.codewars.com/users/ThinkingFrog
+- [*Codewars*](https://www.codewars.com/users/ThinkingFrog)
 
-![alt text](https://www.codewars.com/users/ThinkingFrog/badges/large)
+- [*LeetCode*](https://leetcode.com/ThinkingFrog/)
 
-*LeetCode*: https://leetcode.com/ThinkingFrog/
+- [*Exercism*](https://exercism.org/profiles/ThinkingFrog)
 
-*Exercism*: https://exercism.org/profiles/ThinkingFrog
-
-*Stepik*: https://stepik.org/users/127886308
+- [*Stepik*](https://stepik.org/users/127886308)
