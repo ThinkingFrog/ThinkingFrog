@@ -8,7 +8,7 @@ Also I have a job at [STC Group](https://www.speechpro.ru/) as a **Software Enig
 
 Main programming languages are **Python**, **Rust** and **C++**
 
-Additionally have experience with Linux, **CI/CD** systems and containers
+Additionally have experience with **Linux**, **CI/CD** systems and **containers**
 
 **My links**:
 
