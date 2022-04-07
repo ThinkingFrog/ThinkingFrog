@@ -17,7 +17,3 @@ Additionally have experience with **Linux**, **CI/CD** systems and **containers*
 - [*Codewars*](https://www.codewars.com/users/ThinkingFrog)
 
 - [*LeetCode*](https://leetcode.com/ThinkingFrog/)
-
-- [*Exercism*](https://exercism.org/profiles/ThinkingFrog)
-
-- [*Stepik*](https://stepik.org/users/127886308)
