@@ -1,10 +1,10 @@
-### Greetings ✋🏻
+# Greetings ✋🏻
 
 My name is Dmitry Khripunkov, on most social medias I use nickname/tag **ThinkingFrog**
 
 I'm currently studying at Saint-Petersburg Polytechnic University as a 4th grade **Computer Science** bachelor's student
 
-Also I have a job at [STC Group](https://www.speechpro.ru/) as a **Software Engineer**
+Also I'm currently working with **blockchain-associated cryptography** as a **Software Engineer**
 
 Main programming languages are **Python**, **Rust** and **C++**
 
