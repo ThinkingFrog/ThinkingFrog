@@ -6,7 +6,7 @@ I'm currently working with **blockchains** and **cryptography** (**Zero Knowledg
 
 Main programming languages are **Python**, **Rust** and **C++**
 
-Additionally have experience with **Linux**, **CI/CD** systems and **containers**
+Additionally have experience with **Linux**, **CI/CD** systems and **docker**
 
 **My links**:
 
