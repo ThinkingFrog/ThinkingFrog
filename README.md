@@ -13,7 +13,3 @@ Have a bachelor's degree in **Computer Science**
 **My links**:
 
 - [*Linkedin*](https://www.linkedin.com/in/dmitry-khripunkov-818545202/)
-
-- [*Codewars*](https://www.codewars.com/users/ThinkingFrog)
-
-- [*LeetCode*](https://leetcode.com/ThinkingFrog/)
