@@ -2,11 +2,11 @@
 
 My name is Dmitry Khripunkov, on most social medias I use nickname/tag **ThinkingFrog**
 
-I'm currently working with **blockchains** and **cryptography** (**Zero Knowledge Proofs** in particular) as a **Software Engineer**
+I'm currently working as a **Cryptography Engineer** in the field of **blockchain technologies** (**Zero Knowledge Proofs** and **Multi-Party Computations** in particular)
 
-Main programming languages are **Python**, **Rust** and **C++**
+Main programming languages are **Rust**, **Python** and some **C++** and **Go**
 
-Additionally have experience with **Linux**, **CI/CD** systems and **docker**
+Also have experience with **Linux**, **CI/CD** systems and **Docker**
 
 Have a bachelor's degree in **Computer Science**
 
