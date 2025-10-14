@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**ThinkingFrog/ThinkingFrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on privacy and security oriented solutions
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Rust
+- Python
+- Go
+
+### Technology
+
+- Zero Knowledge Proofs
+- Threshold Signature Schemes
+- Modern cryptography in general
+
+### Tools
+
+- Linux
+- Docker
+- Bash
+
+### Reach out
+
+Open to any proposals on projects/contributions via this links
+
+- [LinkedIn](https://www.linkedin.com/in/dmitry-khripunkov)
+- [Gmail](mailto:khripunkovdv@gmail.com)
