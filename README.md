@@ -8,7 +8,7 @@ Software Engineer focused on privacy and security oriented solutions
 - Modern cryptography (ZKP, TSS, etc)
 - Blockchains & Web3
 - Small teams management
-- Basic administration and devops skills (Linux, networking, CI/CD pipelines, docker, etc)
+- Basic administration and devops skills (Linux, Bash, networking, CI/CD pipelines, docker, etc)
 - Currently learning AppSec and Pentesting
 
 ### Programming Languages
