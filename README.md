@@ -13,9 +13,9 @@ Software Engineer focused on privacy and security oriented solutions
 
 ### Programming Languages
 
-- Rust
 - Python
 - Go
+- Rust
 - A little bit of C++, JS and Solidity
 
 ### Reach out
