@@ -1,22 +1,13 @@
 ## Hi there 👋
 
-Software Engineer focused on privacy and security oriented solutions
+Software Engineer working on privacy and security oriented solutions
 
 ### Skills
 
-- Backend engineering
-- Application Security (AppSec)
-- Administration and DevOps skills (Linux, Bash, networking, CI/CD pipelines, docker, etc)
-- Modern cryptography (ZKP, TSS, etc)
-- EVM-based Blockchains
-- Small RnD teams management
-
-### Programming Languages
-
-- Python
-- Go
-- Rust
-- A little bit of C++, JS and Solidity
+- Python/Go/Rust software engineering, also familiar with C++ and SQL
+- Cryptography: ZKP, MPC, TSS, ECC, ECDSA, RSA, Symmetric
+- Application Security: OSINT, DAST, SAST, SCA, SSDLC
+- Infrastructure skills: Linux, Bash, CI/CD pipelines, docker
 
 ### Reach out
 
