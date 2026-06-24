@@ -11,7 +11,8 @@ Software Engineer working on privacy and security oriented solutions
 
 ### Reach out
 
-Open to any proposals on projects/contributions via these links
+Open to any proposals on jobs, projects participations or contributions via these links:
 
 - [LinkedIn](https://www.linkedin.com/in/dmitry-khripunkov)
 - [Gmail](mailto:khripunkovdv@gmail.com)
+- [Telegram](t.me/thinking_frog)
