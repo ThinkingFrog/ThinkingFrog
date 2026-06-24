@@ -4,10 +4,21 @@ Software Engineer working on privacy and security oriented solutions
 
 ### Skills
 
-- Python/Go/Rust software engineering, also familiar with C++ and SQL
-- Cryptography: ZKP, MPC, TSS, ECC, ECDSA, RSA, Symmetric
-- Application Security: OSINT, DAST, SAST, SCA, SSDLC
-- Infrastructure skills: Linux, Bash, CI/CD pipelines, docker
+- Software Engineering
+  - Python
+  - Go
+  - Rust 
+- Cryptography
+  - ZKP, MPC, TSS
+  - ECC, ECDSA, RSA
+  - Symmetric cryptography
+- Application Security
+  - OSINT, DAST
+  - SAST, SCA, SSDLC
+- Infrastructure skills
+  - Linux, Bash
+  - Docker
+  - CI/CD pipelines
 
 ### Reach out
 
