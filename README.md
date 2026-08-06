@@ -22,7 +22,7 @@ Software Engineer working on privacy and security oriented solutions
 
 ### Reach out
 
-Open to any proposals on jobs, projects participations or contributions via these links:
+Open to: Backend / Cryptography / AppSec roles. Hybrid SPb or remote
 
 - [LinkedIn](https://www.linkedin.com/in/dmitry-khripunkov)
 - [Gmail](mailto:khripunkovdv@gmail.com)
