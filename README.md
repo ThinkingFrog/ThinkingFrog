@@ -26,4 +26,4 @@ Open to any proposals on jobs, projects participations or contributions via thes
 
 - [LinkedIn](https://www.linkedin.com/in/dmitry-khripunkov)
 - [Gmail](mailto:khripunkovdv@gmail.com)
-- [Telegram](t.me/thinking_frog)
+- [Telegram](https://t.me/thinking_frog)
