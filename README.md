@@ -1,28 +1,17 @@
 ## Hi there 👋
 
-Software Engineer working on privacy and security oriented solutions
+Software Engineer working with Cybersecurity, Applied Cryptography and Blockchains
 
-### Skills
+### Stack
 
-- Software Engineering
-  - Python
-  - Go
-  - Rust 
-- Cryptography
-  - ZKP, MPC, TSS
-  - ECC, ECDSA, RSA
-  - Symmetric cryptography
-- Application Security
-  - OSINT, DAST
-  - SAST, SCA, SSDLC
-- Infrastructure skills
-  - Linux, Bash
-  - Docker
-  - CI/CD pipelines
+- Rust, Python, Go
+- Cryptography: ZKP, MPC/TSS, ECC, ECDSA
+- Application Security: OSINT, DAST, SAST, SCA
+- Linux, Bash, Docker
 
 ### Reach out
 
-Open to: Backend / Cryptography / AppSec roles. Hybrid SPb or remote
+Open to Software Engineer, Applied Cryptography Engineer, AppSec Engineer roles
 
 - [LinkedIn](https://www.linkedin.com/in/dmitry-khripunkov)
 - [Gmail](mailto:khripunkovdv@gmail.com)
