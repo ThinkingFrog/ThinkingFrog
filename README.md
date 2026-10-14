@@ -5,6 +5,7 @@ Software Engineer working with Cybersecurity, Applied Cryptography and Blockchai
 ### Stack
 
 - Rust, Python, Go
+- PostgreSQL, Redis, RabbitMQ, gRPC
 - Linux, Bash, Docker
 - Cryptography: ZKP, MPC/TSS, ECC, ECDSA
 - Application Security: OSINT, DAST, SAST, SCA
